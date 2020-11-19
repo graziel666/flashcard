@@ -1,0 +1,27 @@
+List;Discription;Title screen;Hex file;Data file;Save file
+0;Bootloader;QuaggonLoader2.png;;;
+1;3 in 1;category-screens\3in1.png;;;
+1;3in1A;3in1\3in1A.png;3in1\3in1A.hex;;
+1;3in1B;3in1\3in1B.png;3in1\3in1B.hex;;
+1;3in1C;3in1\3in1C.png;3in1\3in1C.hex;;
+1;3in1D;3in1\3in1D.png;3in1\3in1D.hex;;
+2;Team Arg;category-screens\teamarglogo.png;;;
+2;Arduventure;TeamArg\ardu.png;TeamArg\ardu.hex;;
+2;Blob Attack;TeamArg\blob-attack.png;TeamArg\blob-attack.hex;;
+2;Fantasy Rampage;TeamArg\FRMP.png;TeamArg\FRMP.hex;;
+2;Mystic Ballon;TeamArg\MYBL.png;TeamArg\MYBL.hex;;
+2;Sirene;TeamArg\sirene.png;TeamArg\sirene.hex;;
+2;Virus;TeamArg\virus.png;TeamArg\virus.hex;;
+3;Crait;category-screens\Crait.png;;;
+3;CircuitDude;Crait\CircuitDude.png;Crait\CircuitDude.hex;;
+3;InsaneSkulls;Crait\InsaneSkulls.png;Crait\InsaneSkulls.hex;;
+3;MidnightWild;Crait\MidnightWild.png;Crait\MidnightWild.hex;;
+4;Otros;category-screens\otros.png;;;
+4;Castleboy;Otros\Castleboy.png;Otros\Castleboy.hex;;
+4;Catacombs;Otros\catacombs.png;Otros\catacombs.hex;;
+4;Curse;Otros\curse.png;Otros\curse.hex;;
+4;Dark And Under;Otros\Dark-And-Under.png;Otros\Dark-And-Under.hex;;
+4;LoveRush;Otros\LoveRush.png;Otros\LoveRush.hex;;
+4;OMEGA HORIZON;Otros\OMEGA_HORIZON.png;Otros\OMEGA_HORIZON.hex;;
+4;Squario;Otros\Squario.png;Otros\Squario.hex;;
+4;apprentice;Otros\apprentice-wizard.png;Otros\apprentice-wizard.hex;;
